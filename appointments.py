@@ -1,3 +1,5 @@
+# appointments.py - Appointment Scheduling Feature  
+
 class Appointment:  
     def __init__(self, patient_name, doctor_name, date, time, city, state):  
         self.patient_name = patient_name  
